@@ -3,8 +3,8 @@ body {
 }
 h1 {
     color: blue;
+    border: 2px solid purple;
 }
 p {
     color: #ff0000;
-    border: 2px solid purple;
 }
