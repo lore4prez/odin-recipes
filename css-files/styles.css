@@ -4,6 +4,7 @@ body {
 h1 {
     color: blue;
     border: 2px solid purple;
+    padding: 30px;
 }
 p {
     color: #ff0000;
